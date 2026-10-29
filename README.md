@@ -143,11 +143,8 @@ The scatter plot displays customers according to annual income and spending scor
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/mall-customer-segmentation.git
-cd mall-customer-segmentation
+git clone https://github.com/s1046aishw123-max/Customer_Segmentation.git
 ```
-
-Replace the example URL with your actual GitHub repository URL.
 
 ### Step 2: Install Dependencies
 
